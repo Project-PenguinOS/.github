@@ -11,7 +11,7 @@ It is a small, fun, project started by AOSPA maintainers, to learn more about An
 It provides some additional features which have been picked from other ROMs/forks, and contains some 
 new, custom re-designs done by the PenguinOS team.
 
-It is currently running on Android 16 (baklava).
+It is currently running on Android 17 (cinnamon bun).
 
 ### 2026 Relaunch
 
